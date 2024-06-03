@@ -2,6 +2,9 @@
 
 Par Leeo Janon
 
+## LICENCE
+Ce projet est sous licence MIT.
+
 ## PROJET
 1. **Organisation des fichiers et gestion des permissions**
     - Script pour organiser les fichiers dans un répertoire.
@@ -31,5 +34,3 @@ Sur votre machine utiliser les commandes suivantes :
 git clone https://github.com/lethmeshine/devops
 cd DevOps
 
-## LICENCE
-Ce projet est sous licence MIT.
